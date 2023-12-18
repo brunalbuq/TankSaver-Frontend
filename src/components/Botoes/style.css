@@ -1,0 +1,16 @@
+.botao {
+    border: 1px solid #8D7843;
+    border-radius: 4px;
+    color: white;
+    text-decoration: none;
+    padding: 8px 10px;
+    margin-left: 10px;
+}
+
+.botao-sidebar:hover{
+    background-color: blueviolet;
+}
+
+.botao-sidebar:active{
+    background-color: pink;
+}
